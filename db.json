@@ -1,0 +1,95 @@
+{
+    "criteria": [
+      {
+        "id": 1,
+        "subject group": "Individuals and Societies",
+        "year": "myp 5",
+        "criterion": "A: Knowing and Understanding",
+        "strand": "i. use a wide range of terminology in context"
+      },
+      {
+        "id": 2,
+        "subject group": "Individuals and Societies",
+        "year": "myp 5",
+        "criterion": "A: Knowing and Understanding",
+        "strand": "ii. demonstrate knowledge and understanding of subject-specific content and concepts through developed descriptions, explanations and examples."
+      },
+      {
+        "id": 3,
+        "subject group": "Individuals and Societies",
+        "year": "myp 5",
+        "criterion": "B: Investigating",
+        "strand": "i. formulate a clear and focused research question and justify its relevance"
+      },
+      {
+        "id": 4,
+        "subject group": "Individuals and Societies",
+        "year": "myp 5",
+        "criterion": "B: Investigating",
+        "strand": "ii. formulate and follow an action plan to investigate a research question"
+      },
+      {
+        "id": 5,
+        "subject group": "Individuals and Societies",
+        "year": "myp 5",
+        "criterion": "B: Investigating",
+        "strand": "iii. use research methods to collect and record appropriate, varied and relevant information"
+      },
+      {
+        "id": 6,
+        "subject group": "Individuals and Societies",
+        "year": "myp 5",
+        "criterion": "B: Investigating",
+        "strand": "iv. evaluate the process and results of the investigation."
+      },
+      {
+        "id": 7,
+        "subject group": "Individuals and Societies",
+        "year": "myp 5",
+        "criterion": "C: Communicating",
+        "strand": "i. communicate information and ideas effectively using an appropriate style for the audience and purpose"
+      },
+      {
+        "id": 8,
+        "subject group": "Individuals and Societies",
+        "year": "myp 5",
+        "criterion": "C: Communicating",
+        "strand": "ii. structure information and ideas in a way that is appropriate to the specified format "
+      },
+      {
+        "id": 9,
+        "subject group": "Individuals and Societies",
+        "year": "myp 5",
+        "criterion": "C: Communicating",
+        "strand": "iii. document sources of information using a recognized convention."
+      },
+      {
+        "id": 10,
+        "subject group": "Individuals and Societies",
+        "year": "myp 5",
+        "criterion": "D: Thinking Critically",
+        "strand": "i. discuss concepts, issues, models, visual representation and theories"
+      },
+      {
+        "id": 11,
+        "subject group": "Individuals and Societies",
+        "year": "myp 5",
+        "criterion": "D: Thinking Critically",
+        "strand": "ii. synthesize information to make valid, well-supported arguments"
+      },
+      {
+        "id": 12,
+        "subject group": "Individuals and Societies",
+        "year": "myp 5",
+        "criterion": "D: Thinking Critically",
+        "strand": "iii. analyse and evaluate a range of sources/data in terms of origin and purpose, examining value and limitations"
+      },
+      {
+        "id": 13,
+        "subject group": "Individuals and Societies",
+        "year": "myp 5",
+        "criterion": "D: Thinking Critically",
+        "strand": "iv. . interpret different perspectives and their implications."
+      }
+    ]
+  }
