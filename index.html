@@ -60,48 +60,37 @@
     </div>
 
     <div id="right-container">
-        <!-- <form id="reflection-tool">
-            <h2>Teacher Reflection Tool</h2> -->
-            <!-- <br></br>
-            <p>Select the criterion that you've assessed.</p>
-            <label for="criteria-dropdown"></label>
-                <select id="strands-dropdown">
-                    <option value="Ai">Knowing & Understanding, i.</option>
-                    <option value="Aii">Knowing & Understanding, ii.</option>
-                    <option value="Bi">Investigating, i.</option>
-                    <option value="Bii">Investigating, ii.</option>
-                    <option value="Biii">Investigating, iii.</option>
-                    <option value="Biv">Investigating, iv.</option>
-                    <option value="Ci">Communicating, i.</option>
-                    <option value="Cii">Communicating, ii.</option>
-                    <option value="Ciii">Communicating, iii.</option>
-                    <option value="Di">Thinking Critically, i.</option>
-                    <option value="Di">Thinking Critically, ii.</option>
-                    <option value="Di">Thinking Critically, iii.</option>
-                    <option value="Di">Thinking Critically, iv.</option>
-                </select>
-            <br></br>
-            <p>What is the strategy name?</p>
-            <input type="text" id="name"/>
-            <br></br>
-            <p>Now reflect. What worked? What didn't work? What changes will you implement next time?</p>
-            <label for="reflection"></label>
-            <textarea name="reflection" id="reflection"></textarea>
-            <br></br> -->
-            <!-- <p>Now reflect. What worked? What didn't work? What changes will you implement next time?</p>
-            <label for="reflection"></label>
-            <textarea name="reflection" id="reflection"></textarea>
-                <input type="submit" id="submit-button" value="Add" />
-        </form> -->
         <form id="reflection-form" class="form">
+            <h2>Teacher Reflection Tool</h2>
             <label for="strategy-name">Strategy Name: </label>
             <input type="text" name="strategy-name" id="strategy-name">
+            <p>Select the criterion that you've assessed.</p>
+            <label for="strands-dropdown"></label>
+                <select id="strands-dropdown">
+                    <option value="Knowing & Understanding, i.">Knowing & Understanding, i.</option>
+                    <option value="Knowing & Understanding, ii.">Knowing & Understanding, ii.</option>
+                    <option value="Investigating, i.">Investigating, i.</option>
+                    <option value="Investigating, ii.">Investigating, ii.</option>
+                    <option value="Investigating, iii.">Investigating, iii.</option>
+                    <option value="Investigating, iv.">Investigating, iv.</option>
+                    <option value="Communicating, i.">Communicating, i.</option>
+                    <option value="Communicating, ii.">Communicating, ii.</option>
+                    <option value="Communicating, iii.">Communicating, iii.</option>
+                    <option value="Thinking Critically, i.">Thinking Critically, i.</option>
+                    <option value="Thinking Critically, ii.">Thinking Critically, ii.</option>
+                    <option value="Thinking Critically, iii.">Thinking Critically, iii.</option>
+                    <option value="Thinking Critically, iv.">Thinking Critically, iv.</option>
+                </select>
             <label for="reflection">Reflection: </label>
             <textarea name="reflection" id="reflection"></textarea>
             <button type="submit">Add</button>
         </form>
         <div id="strategy-card" class="card">
+            <h3>strategy name: </h3>
             <h3 id="added-strategy"></h3>
+            <p>assessed criteria: </p>
+            <p id="assessd-criteria"></p>
+            <p>strategy reflection: </p>
             <p id="added-reflection"></p>
 
         </div>

@@ -17,12 +17,12 @@ header {
 }
 
 #left-container {
-  width: 75vw;
-  background-color: aqua;
+  width: 70vw;
+  background-color: rgb(187, 143, 200);
 }
 #right-container {
-  width: 25vw;
-  background-color: blueviolet;
+  width: 30vw;
+  background-color: rgb(158, 225, 179);
 }
 .image-row {
   display: flex;
@@ -89,5 +89,9 @@ header {
 #reflection-tool {
   margin-bottom: 20px;
 
+}
+
+#strategy-card {
+  
 }
 

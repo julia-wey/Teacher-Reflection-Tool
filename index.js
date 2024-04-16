@@ -132,17 +132,25 @@ function displayCriteria(criteriaArr) {
 
     const reflectionForm = document.querySelector("#reflection-form");
     const strategyName = document.querySelector("#strategy-name");
+    const dropdown = document.querySelector("#strands-dropdown");
     const reflectionInput = document.querySelector("#reflection");
 
     reflectionForm.addEventListener('submit', (e) => handleSubmit(e))
     
     function handleSubmit(e) {
         e.preventDefault(e);
-        const strategyCard = document.querySelector("#strategy-card").textContent = strategyName.value;
+        const addedStrategy = document.querySelector("#added-strategy")
+        addedStrategy.textContent = strategyName.value
+        const addedStrand = document.querySelector("#assessd-criteria")
+        addedStrand.textContent = dropdown.value
+        const addedReflection = document.querySelector("#added-reflection")
+        addedReflection.textContent = reflectionInput.value
+        //const strategyCard = document.querySelector("#strategy-card").textContent = strategyName.value;
         //here- add CSS to style card
+        //add different imputs to different parts of card in this function
 
 
         // console.log(strategyName.value)
-        // console.log(reflectionInput.value)
+         //console.log(reflectionInput.value)
     }
     
