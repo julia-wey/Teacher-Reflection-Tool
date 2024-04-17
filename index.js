@@ -1,8 +1,6 @@
 fetch("http://localhost:3000/criteria")
     .then((resp)=> resp.json())
     .then((data) => displayCriteria(data));
-
-    //Run json-server --watch db.json
     
 function displayCriteria(criteriaArr) {
         
