@@ -4,8 +4,8 @@
 In this web application, teachers will find a tool in which they can reflect upon learning strategies that they use to teach and assess criteria. They are also able to access the learning criteria, using the International Baccalaureate's assessment criteria for year 5 of the Middle Years Programme, focusing on the Individuals and Societies subject group. Using the form on the web application, teachers can collect information about what works with different strategies, and plans that they have to improve upon strategies so they can refine their instruction and assessment of the criteria. One of the main aims of this tool are to help teachers build a fully criteria-based teaching practice.
 
 ## Features:
-    * **Criteria: The criteria and their individual strands are rendered to the page for inspection.
-    * **Strategy Reflection Tool: A form allows teachers to connect the teaching strategies that they use to the criteria, and log information and so that they can begin to build a tool that helps them easily access strategies for use in the classroom, while intentionally connecting each to criteria.
+    **Criteria:** The criteria and their individual strands are rendered to the page for inspection.
+    **Strategy Reflection Tool:** A form allows teachers to connect the teaching strategies that they use to the criteria, and log information and so that they can begin to build a tool that helps them easily access strategies for use in the classroom, while intentionally connecting each to criteria.
 
 
 ## Data Source:
